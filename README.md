@@ -1,9 +1,9 @@
-# SEP-PVLDB-2021
-*The Smallest Extraction Problem*
+# [SEP-PVLDB-2021](https://dl.acm.org/doi/10.14778/3476249.3476293)
+# *The Smallest Extraction Problem*
 
 Proceedings of the VLDB Endowment, Vol. 14, No. 11 ISSN 2150-8097.
 
-[An online version is available here: https://dl.acm.org/doi/10.14778/3476249.3476293](https://dl.acm.org/doi/10.14778/3476249.3476293)
+An online version is available [here](https://dl.acm.org/doi/10.14778/3476249.3476293)
 
 Please cite us with:
 ---
@@ -39,4 +39,4 @@ Please cite us with:
 For questions, comments and suggestions: `valter.crescenzi`&#x1F4E7;`uniroma3.it`.
 
 
-[Companion Website of the Paper](index.html)
+[Companion Website of the Paper](https://htmlpreview.github.io/?https://github.com/The-Smallest-Extraction-Problem/SEP-PVLDB-2021/blob/main/index.html)
